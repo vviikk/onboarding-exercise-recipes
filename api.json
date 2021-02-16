@@ -1,4 +1,4 @@
-[
+{ "recipes": [
     {
         "name": "Crock Pot Roast",
         "ingredients": [
@@ -561,4 +561,4 @@
         "imageURL": "http://www.chatelaine.com/wp-content/uploads/2013/05/Curried-chicken-salad.jpg",
         "originalURL": "http://www.chatelaine.com/recipe/stovetop-cooking-method/curried-chicken-salad/"
     }
-]
+] }
