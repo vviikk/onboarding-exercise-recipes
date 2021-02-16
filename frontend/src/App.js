@@ -1,7 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+import { API } from './config'
 
-function App() {
+const App = () => {
+  console.log(API);
   return (
     <div className="App">
       <header className="App-header">
